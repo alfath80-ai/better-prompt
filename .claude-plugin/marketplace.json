@@ -1,0 +1,6 @@
+{
+  "name": "better-prompt",
+  "owner": { "name": "Alfaath" },
+  "description": "Prompt Upgrade, a Claude Code mod that turns a rough prompt into a great one before it is sent.",
+  "plugins": [{ "name": "prompt-upgrade", "source": "./" }]
+}
